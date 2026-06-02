@@ -1,0 +1,18 @@
+Hostname: kali
+
+IPv4 Address: 192.168.181.136
+
+MAC Address: 00:0c:29:b9:98:27
+
+Default Gateway: 192.168.181.2
+
+DNS Server: 192.168.181.2
+
+Ping Result:
+3 packets transmitted
+3 received
+0% packet loss
+
+Traceroute:
+Hop 1 -> 192.168.181.2
+Other hops timed out

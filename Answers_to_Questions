@@ -1,0 +1,15 @@
+1. What is an IP Address?
+
+An IP Address (Internet Protocol Address) is a unique number assigned to a device on a network. It helps devices identify and communicate with each other.
+
+2. What is a MAC Address?
+
+A MAC (Media Access Control) Address is a unique hardware address assigned to a network interface card (NIC). It is used for communication within a local network.
+
+3. What is a Default Gateway?
+
+A Default Gateway is the router that forwards data from a local network to other networks, including the Internet.
+
+4. What is DNS?
+
+DNS (Domain Name System) converts domain names such as google.com into IP addresses so computers can locate websites.
