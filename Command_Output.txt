@@ -2,9 +2,9 @@ Hostname: kali
 
 IPv4 Address: 192.168.181.136
 
-MAC Address: 00:0c:29:b9:98:27
+MAC Address: 00:00:00:00:00:00
 
-Default Gateway: 192.168.181.2
+Default Gateway: 192.168.171.7
 
 DNS Server: 192.168.181.2
 
